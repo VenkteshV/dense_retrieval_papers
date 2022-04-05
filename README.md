@@ -11,3 +11,7 @@
 
 # Language model pre-training
 1. LinkBERT <a> https://arxiv.org/pdf/2203.15827.pdf </a>
+
+# blogs
+1. Advances in ubiquitous information retrieval (https://ai.facebook.com/blog/-advances-toward-ubiquitous-neural-information-retrieval/)
+
