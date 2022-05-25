@@ -11,6 +11,8 @@
 1.  MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction <a>https://arxiv.org/pdf/2110.06651.pdf</a>
 
 
+#  Question Answering
+1.  Cross attention based question answering <a> https://aclanthology.org/P17-1021.pdf </a>
 # Language model pre-training
 1. LinkBERT <a> https://arxiv.org/pdf/2203.15827.pdf </a>
 
