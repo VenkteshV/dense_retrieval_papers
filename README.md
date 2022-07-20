@@ -7,6 +7,8 @@
 3.  ANCE APPROXIMATE NEAREST NEIGHBOR NEGATIVE CONTRASTIVE LEARNING FOR DENSE TEXT RETRIEVALg  <a> https://openreview.net/pdf?id=zeFrfgyZln </a> 
 4.  ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval <a> https://arxiv.org/abs/2205.09153 </a>
 
+# Review
+1. [Semantic Models for the First-stage Retrieval: A Comprehensive Review](https://arxiv.org/abs/2103.04831)
 # Unsupervised keyphrase extraction
 1.  MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction <a>https://arxiv.org/pdf/2110.06651.pdf</a>
 
